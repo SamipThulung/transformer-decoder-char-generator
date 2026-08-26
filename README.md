@@ -13,7 +13,7 @@ Example:
   4. inosaurus
 
 ## Result generated:
- The names generated after 10 epoch is in the image below. Feel free to train more than 10 epoch to get more interesting results. But, after 10 epochs, the model seems to make sense well enough. 
+ The names generated after 10 epoch is in the image below. Feel free to train more than 10 epoch to get more interesting results. But, after 10 epochs, the names generated seems to make sense. 
 
  <p align="center">
   <img src="assets/results.png" width="300">
