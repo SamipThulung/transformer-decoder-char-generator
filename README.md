@@ -16,7 +16,7 @@ Example:
  The names generated after 10 epoch is in the image below. Feel free to train more than 10 epoch to get more interesting results. But, after 10 epochs, the model seems to make sense well enough. 
 
  <p align="center">
-  <img src="assets/results.png" width="250">
+  <img src="assets/results.png" width="300">
 </p>
 
 ## Tokens:
